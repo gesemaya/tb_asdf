@@ -1,0 +1,12 @@
+id: QmVUbwve1MZfZVyjBuTqwpcM4ZvgxCbDCyzuBNsJbdfryn
+description: ""
+tags: []
+match: /bot2
+useRegex: false
+access:
+    network: all
+replicas:
+    min: 11
+    max: 1111
+storage:
+    size: 1111MB

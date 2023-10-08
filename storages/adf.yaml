@@ -1,0 +1,10 @@
+id: QmVp6dsjhfvwyLwi9ChmVnPjVcE91BorgoWTi8XUkrLahu
+description: ""
+tags: []
+match: /bot
+useRegex: false
+access:
+    network: host
+object:
+    versioning: false
+    size: 111MB

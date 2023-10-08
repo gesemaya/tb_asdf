@@ -1,0 +1,12 @@
+id: QmXLBZZsKSZ1kwcpF5Q8SJL6Seomo2DcGGxFCgDcK4Man6
+description: telegram bot
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /website
+    branch: main
+    github:
+        id: 701996770
+        fullname: gesemaya/website
